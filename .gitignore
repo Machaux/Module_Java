@@ -1,0 +1,13 @@
+nb-configuration.xml
+.classpath
+.project
+.settings/
+.tern-project
+**/target/**
+**/bin/**
+**/lib/**
+**/Cours & TP/**
+**/Corrigés/**
+*.exe
+*.jar
+**/Recup/**
